@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "FirstAngular"
+  "defaultProject": "FirstAngular",
+  "cli": {
+    "analytics": "29cf09ec-67bf-471b-9262-bbb609743459"
+  }
 }
